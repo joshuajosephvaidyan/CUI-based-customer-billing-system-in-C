@@ -1,0 +1,145 @@
+
+----------------------------------------------------------------------------------------
+
+
+BILL NO:1 
+ BILLING OPERATOR:JOSHUA
+
+1                      APPLE 	152.00 	1  	152.00
+2                      GUAVA 	34.00 	6  	204.00
+CARRY BAG CHARGES LEVIED
+
+MODE:CASH
+Grand total=361.00
+
+----------------------------------------------------------------------------------------
+
+BILL NO:2 
+ BILLING OPERATOR:JOSH
+
+1                 STRAWBERRY 	65.00 	1  	65.00
+CARRY BAG CHARGES LEVIED
+
+MODE:CASH
+Grand total=70.00
+
+----------------------------------------------------------------------------------------
+
+BILL NO:1 
+ BILLING OPERATOR:RAGHAV
+
+1                 STRAWBERRY 	65.00 	1  	65.00
+CARRY BAG CHARGES LEVIED
+
+MODE:CASH
+Grand total=70.00
+
+----------------------------------------------------------------------------------------
+
+BILL NO:1 
+ BILLING OPERATOR:JOSEPH
+
+1                      APPLE 	152.00 	1  	152.00
+CARRY BAG CHARGES LEVIED
+
+MODE:CASH
+Grand total=157.00
+
+----------------------------------------------------------------------------------------
+
+BILL NO:1 
+ BILLING OPERATOR:JOSH
+
+1                      APPLE 	152.00 	1  	152.00
+2                     ORANGE 	56.00 	3  	168.00
+3                  PINEAPPLE 	87.00 	1  	87.00
+4                 STRAWBERRY 	65.00 	7  	455.00
+5               CHILLYPOWDER 	15.00 	4  	60.00
+CARRY BAG CHARGES LEVIED
+
+MODE:CASH
+Grand total=927.00
+
+----------------------------------------------------------------------------------------
+
+BILL NO:1 
+ BILLING OPERATOR:JOSHUA
+
+1                 STRAWBERRY 	65.00 	1  	65.00
+2                    LETTUCE 	30.00 	2  	60.00
+3                    URADDAL 	80.00 	2  	160.00
+4                      BINGO 	 5.00 	3  	15.00
+MODE:CARD
+Grand total=300.00
+
+----------------------------------------------------------------------------------------
+
+BILL NO:2 
+ BILLING OPERATOR:MATHEW
+
+1                 BOILEDRICE 	45.00 	2  	90.00
+2                      SUGAR 	40.00 	2  	80.00
+3                       OREO 	30.00 	2  	60.00
+CARRY BAG CHARGES LEVIED
+
+MODE:CASH
+Grand total=235.00
+
+----------------------------------------------------------------------------------------
+
+BILL NO:1 
+ BILLING OPERATOR:JOSHUA
+
+1                      APPLE 	152.00 	1  	152.00
+MODE:CASH
+MODE:CASH
+Grand total=152.00
+
+----------------------------------------------------------------------------------------
+
+BILL NO:1 
+ BILLING OPERATOR:JOSHUA
+
+1                      APPLE 	152.00 	1  	152.00
+CARRY BAG CHARGES LEVIED
+
+MODE:CARD
+Grand total=157.00
+
+----------------------------------------------------------------------------------------
+
+BILL NO:1 
+ BILLING OPERATOR:JOSH
+
+1                      APPLE 	152.00 	1  	152.00
+CARRY BAG CHARGES LEVIED
+
+MODE:CARD
+Grand total=157.00
+
+-------------------------------------------------------------------------------
+
+BILL NO:1 
+ BILLING OPERATOR:JOSHUA
+
+1                     APPLE 	152.00 	7 	1064.00
+2                     MANGO 	56.00 	7 	392.00
+3            TURMERICPOWDER 	15.00 	2 	30.00
+CARRY BAG CHARGES LEVIED
+
+MODE:CASH
+MODE:CASH
+Grand total=1491.00
+
+-------------------------------------------------------------------------------
+
+BILL NO:2 
+ BILLING OPERATOR:JOSHUA
+
+1                    PAPAYA 	38.00 	1 	38.00
+CARRY BAG CHARGES LEVIED
+
+MODE:CARD
+Grand total=43.00
+
+-------------------------------------------------------------------------------
